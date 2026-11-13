@@ -23,4 +23,5 @@ print(f"Кількість елементів у перетині: {result_count
 
 print(type(find_intersection_count(A, B)))
 
+#gay
 
